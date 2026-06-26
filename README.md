@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Dharsan D
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2ECC71&text=Dharsan%20D&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Java%20Developer&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:3B0A0A,50:8B0000,100:DC2626&text=Dharsan%20D&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Java%20Developer&descAlignY=60&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=4000&pause=1000&color=2ECC71&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React.js;AWS+Cloud+Enthusiast;Building+Real-World+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=4000&pause=1000&color=FF4D4D&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React.js;AWS+Cloud+Enthusiast;Building+Real-World+Applications" />
 </p>
 
 ---
@@ -11,7 +11,6 @@
 ## 👨‍💻 About Me
 
 🎓 B.E Computer Science and Engineering Student at Rathinam Technical Campus
-
 📍 Coimbatore, Tamil Nadu, India
 
 Passionate Software Developer with strong interests in Full Stack Development, Java Programming, Cloud Computing, and Problem Solving. I enjoy developing scalable web applications and continuously improving my technical skills through projects, internships, and hands-on learning.
@@ -105,26 +104,26 @@ A modern e-commerce platform that allows users to browse products, manage carts,
 ### Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF4D4D?style=flat-square\&logo=javascript\&logoColor=black)
 
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![CSS3](https://img.shields.io/badge/CSS3-DC2626?style=flat-square\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-DC2626?style=flat-square\&logo=react\&logoColor=61DAFB)
 
 ### Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square\&logo=fastapi\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-DC2626?style=flat-square\&logo=springboot\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF4D4D?style=flat-square\&logo=fastapi\&logoColor=white)
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8B0000?style=flat-square\&logo=mysql\&logoColor=white)
 
 ### Cloud
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/AWS-DC2626?style=flat-square\&logo=amazonaws\&logoColor=white)
 
 ### Tools
 
@@ -137,8 +136,8 @@ Git • GitHub • Postman • VS Code • IntelliJ IDEA
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dharsan2006&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharsan2006&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dharsan2006&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharsan2006&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -146,7 +145,7 @@ Git • GitHub • Postman • VS Code • IntelliJ IDEA
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharsan2006&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharsan2006&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -154,7 +153,7 @@ Git • GitHub • Postman • VS Code • IntelliJ IDEA
 ## 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharsan2006&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharsan2006&theme=redical&hide_border=true"/>
 </p>
 
 ---
@@ -162,7 +161,7 @@ Git • GitHub • Postman • VS Code • IntelliJ IDEA
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dharsan2006&theme=tokyonight&row=1&column=6&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dharsan2006&theme=radical&row=1&column=6&no-frame=true"/>
 </p>
 
 ---
@@ -180,7 +179,7 @@ Git • GitHub • Postman • VS Code • IntelliJ IDEA
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Dharsan2006&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Dharsan2006&label=Profile%20Views&color=DC2626&style=flat"/>
 </p>
 
 ---
@@ -207,14 +206,10 @@ Git • GitHub • Postman • VS Code • IntelliJ IDEA
 # 📫 Contact Me
 
 📧 Email: **[dharshan23306@gmail.com](mailto:dharshan23306@gmail.com)**
-
-🌐 Portfolio: **https://dharsan-d.vercel.app/**
-
-💼 LinkedIn: **https://www.linkedin.com/in/dharshan-d-360756296**
-
-💻 GitHub: **https://github.com/Dharsan2006**
-
-🧩 LeetCode: **https://leetcode.com/u/Dharsand/**
+🌐 Portfolio: https://dharsan-d.vercel.app/
+💼 LinkedIn: https://www.linkedin.com/in/dharshan-d-360756296
+💻 GitHub: https://github.com/Dharsan2006
+🧩 LeetCode: https://leetcode.com/u/Dharsand/
 
 ---
 
